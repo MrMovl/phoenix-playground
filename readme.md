@@ -1,0 +1,1 @@
+This is a repository to play around with pheonix for a bit. Most stuff here will probably come from the official phoenix tutorials.
